@@ -1,7 +1,4 @@
 - 👋 Hi, I’m RonakSurana
-- 👀 I’m interested in Web Development and Problem Solving. 
-- 🌱 I’m currently learning React JS. 
-- 💞️ I’m looking to collaborate on web development based projects. 
 - 📫 How to reach me ronaksurana2017@gmail.com
 
 <!---
