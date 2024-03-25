@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ronak Surana</h1>
 <h3 align="center">Aspiring software engineer with a strong academic background in computer science and a passion for programming. Proficient in languages like C++, C, and JavaScript, with hands-on experience in web development and database management. Eager to apply my skills and learn from experienced professionals in a dynamic work environment to contribute effectively to innovative software projects. A quick learner, team player, and dedicated problem-solver with a keen eye for detail. Ready to embark on a fulfilling journey in the world of software development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronaksurana-2001&label=Profile%20views&color=0e75b6&style=flat" alt="ronaksurana-2001" /> </p>
 
 - 📫 How to reach me **ronaksurana2017@gmail.com**
 
