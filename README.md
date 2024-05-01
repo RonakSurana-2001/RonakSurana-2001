@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ronak-surana-944550205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronak-surana-944550205" height="30" width="40" /></a>
-<a href="https://instagram.com/ronak_surana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronak_surana1" height="30" width="40" /></a>
+<a href="https://instagram.com/ronak_surana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronak_surana1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/oswald_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oswald_2001" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ronaksurana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ronaksurana" height="30" width="40" /></a>
 </p>
