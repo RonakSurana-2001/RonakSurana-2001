@@ -17,3 +17,4 @@
 <h3 align="left">Open Source :</h3>
 <p><a href="https://github.com/sristy17/MindDrive/pull/46">[FEATURE] Show User Details when session data is not expired (Conditional Rendering)</a></p>
 <p><a href="https://github.com/growupanand/ConvoForm/pull/387">Identified Issue and Helped in Making Repository Code work on multiple OS</a></p>
+<p><a href="https://github.com/json-schema-org/website/pull/1084">Add next prev button</a></p>
